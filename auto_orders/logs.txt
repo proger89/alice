@@ -1,0 +1,13 @@
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:Not enough parameters for the SQL statement
+User ID: 2:'HTTP' object has no attribute 'get_symbol'
+User ID: 2:'HTTP' object has no attribute 'get_symbol'
+User ID: 2:'HTTP' object has no attribute 'get_symbol'
+User ID: 2:'HTTP' object has no attribute 'get_symbol'

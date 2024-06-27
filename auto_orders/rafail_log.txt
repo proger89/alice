@@ -1,0 +1,12 @@
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:05).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:06).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:07).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:49).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:51).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
+Unmatched IP, please check your API key's bound IP addresses. (ErrCode: 10010) (ErrTime: 07:39:52).
+Request → GET https://api.bybit.com/v5/position/list: category=linear&symbol=CVXUSDT.
